@@ -1718,6 +1718,7 @@
         "image": "https://q-xx.bstatic.com/xdata/images/city/square210/684533.jpg?k=efaef4796fa555481ddabf686c3fc66433b50ba69c936d6f702b1125b1d06748&o="
       }
   ],
+
   "trending-cities": [
     {
       "id": 1,
@@ -1910,6 +1911,7 @@
           "image": "https://q-xx.bstatic.com/xdata/images/city/square210/685779.jpg?k=8774db3e8159799b859ca794fcb96ad2e35105627c017436efb68fc7a7afa319&o="
         }
       ],
+
       "North-America": [
         {
           "id": 1,
@@ -1991,6 +1993,7 @@
           "image": "https://q-xx.bstatic.com/xdata/images/city/square210/967877.jpg?k=18d14b862ca13e1e099d98c281202acdf8e80bacbf831bd66222ea03392d5d57&o="
         }
       ],
+      
   "flights" : [
   {
     "id":1,
